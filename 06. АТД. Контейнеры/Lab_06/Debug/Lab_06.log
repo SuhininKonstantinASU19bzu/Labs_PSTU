@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Vector.cpp
+  Generating Code...
+C:\Users\Константин\Desktop\Study\Computer Science\Семестр 2\Lab_06\Vector.cpp(60): warning C4715: 'Vector::operator[]': not all control paths return a value
+  Lab_06.vcxproj -> C:\Users\Константин\Desktop\Study\Computer Science\Семестр 2\Lab_06\Debug\Lab_06.exe

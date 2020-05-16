@@ -1,0 +1,4 @@
+C:\Users\Константин\Desktop\Algorithmisation\Семестр 2\Lab_12_Part_1\Debug\Lab_12_Part_1.exe
+C:\Users\Константин\Desktop\Algorithmisation\Семестр 2\Lab_12_Part_1\Debug\Lab_12_Part_1.pdb
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\12. Ассоциативные контейнеры библиотеки STL\Lab_12_Part_1\Debug\Lab_12_Part_1.exe
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\12. Ассоциативные контейнеры библиотеки STL\Lab_12_Part_1\Debug\Lab_12_Part_1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Константин\Desktop\Computer Science\Семестр 2\Lab_06\Debug\Lab_06.exe
+C:\Users\Константин\Desktop\Computer Science\Семестр 2\Lab_06\Debug\Lab_06.pdb
+C:\Users\Константин\Desktop\Study\Computer Science\Семестр 2\Lab_06\Debug\Lab_06.exe
+C:\Users\Константин\Desktop\Study\Computer Science\Семестр 2\Lab_06\Debug\Lab_06.pdb

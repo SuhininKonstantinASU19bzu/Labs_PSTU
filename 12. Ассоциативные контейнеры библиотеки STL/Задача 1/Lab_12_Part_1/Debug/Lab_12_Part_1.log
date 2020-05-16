@@ -1,0 +1,80 @@
+﻿  main.cpp
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\12. Ассоциативные контейнеры библиотеки STL\Lab_12_Part_1\main.cpp(35,13): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,16): warning C4244: 'initializing': conversion from 'double' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xmemory(670): message : see reference to function template instantiation 'std::pair<const int,double>::pair<double&,double&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=double &,
+              _Other2=double &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xmemory(671): message : see reference to function template instantiation 'std::pair<const int,double>::pair<double&,double&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=double &,
+              _Other2=double &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xtree(805): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double&,double&>(_Alloc &,_Objty *const ,double &,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<std::allocator<std::pair<const int,double>>>::void_pointer>>,
+              _Ty=std::pair<const int,double>,
+              _Objty=std::pair<const int,double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xtree(806): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double&,double&>(_Alloc &,_Objty *const ,double &,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<std::allocator<std::pair<const int,double>>>::void_pointer>>,
+              _Ty=std::pair<const int,double>,
+              _Objty=std::pair<const int,double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xtree(998): message : see reference to function template instantiation 'std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<double&,double&>(_Alnode &,std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,double &,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,double>>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<std::allocator<std::pair<const int,double>>>::void_pointer>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xtree(1014): message : see reference to function template instantiation 'std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<double&,double&>(_Alnode &,std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,double &,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,double>>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<std::allocator<std::pair<const int,double>>>::void_pointer>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xtree(1092): message : see reference to function template instantiation 'std::pair<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Emplace<double&,double&>(double &,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,double>>,
+              _Kty=int,
+              _Ty=double,
+              _Pr=std::less<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xtree(1093): message : see reference to function template instantiation 'std::pair<std::_Tree_node<std::pair<const int,double>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::_Emplace<double&,double&>(double &,double &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,double>>,
+              _Kty=int,
+              _Ty=double,
+              _Pr=std::less<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\map(457): message : see reference to function template instantiation 'std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,double>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<double&,double&>(double &,double &)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=double,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,double>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\map(458): message : see reference to function template instantiation 'std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,double>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,true>>::emplace<double&,double&>(double &,double &)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=double,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,double>>
+          ]
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\12. Ассоциативные контейнеры библиотеки STL\Lab_12_Part_1\main.cpp(40): message : see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,double>>>> std::multimap<int,double,std::less<int>,std::allocator<std::pair<const int,double>>>::emplace<double&,double&>(double &,double &)' being compiled
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\12. Ассоциативные контейнеры библиотеки STL\Lab_12_Part_1\main.cpp(40): message : see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,double>>>> std::multimap<int,double,std::less<int>,std::allocator<std::pair<const int,double>>>::emplace<double&,double&>(double &,double &)' being compiled
+  Lab_12_Part_1.vcxproj -> C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\12. Ассоциативные контейнеры библиотеки STL\Lab_12_Part_1\Debug\Lab_12_Part_1.exe

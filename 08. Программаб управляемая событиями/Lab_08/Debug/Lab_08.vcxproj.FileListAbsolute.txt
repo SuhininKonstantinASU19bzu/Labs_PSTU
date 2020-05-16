@@ -1,0 +1,4 @@
+C:\Users\Константин\Desktop\Algorithmisation\Семестр 2\Lab_08\Debug\Lab_08.exe
+C:\Users\Константин\Desktop\Algorithmisation\Семестр 2\Lab_08\Debug\Lab_08.pdb
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\Lab_08\Debug\Lab_08.exe
+C:\Users\Константин\Desktop\Study\Algorithmisation\Семестр 2\Lab_08\Debug\Lab_08.pdb

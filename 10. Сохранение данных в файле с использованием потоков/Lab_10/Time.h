@@ -1,0 +1,39 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+class Time {
+	int min, sec;
+
+public:
+	Time() { min = 0; sec = 0; }
+	Time(int m, int s) { min = m; sec = s; }
+	Time(const Time& t) { min = t.min; sec = t.sec; }
+	~Time() {}
+	int get_min() { return min; }
+	int get_sec() { return sec; }
+	void set_min(int m) { min = m; }
+	void set_sec(int s) { sec = s; }
+
+	// Перегруженные операции
+	// Префиксные операции
+	Time& operator =(const Time&);
+	Time& operator ++();
+
+	// Постфиксные операции
+	Time operator ++(int);
+	Time operator +(const Time&);
+
+	// Операция сравнения
+	bool operator ==(const Time&);
+
+	// Глобальные функции ввода-вывода
+	friend istream& operator >>(istream& in, Time& t);
+	friend ostream& operator <<(ostream& out, const Time& t);
+
+	// Глобальные функции файлового ввода-вывода
+	friend fstream& operator >>(fstream& fin, Time& t);
+	friend fstream& operator <<(fstream& fout, const Time& t);
+};
