@@ -1,0 +1,4 @@
+D:\Study\Algorithm Teory\Lab_15\Debug\Lab_15.exe
+D:\Study\Algorithm Teory\Lab_15\Debug\Lab_15.pdb
+C:\Users\Константин\Desktop\Algorithm Teory\Lab_15\Debug\Lab_15.exe
+C:\Users\Константин\Desktop\Algorithm Teory\Lab_15\Debug\Lab_15.pdb

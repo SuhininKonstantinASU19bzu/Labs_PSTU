@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Константин\Desktop\Algorithm Teory\Lab_15\Table.h(80,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Константин\Desktop\Algorithm Teory\Lab_15\Table.h(141,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab_15.vcxproj -> C:\Users\Константин\Desktop\Algorithm Teory\Lab_15\Debug\Lab_15.exe
